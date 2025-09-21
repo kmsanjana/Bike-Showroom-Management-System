@@ -16,10 +16,13 @@ order for the end customer. The customer confirms the order. The dealer creates 
 to prepare the bike
 
 
-# This application is used by three users:
+# Overview:
 1)Admin
+
 2)Customer
+
 3)Dealer
+
 The main aim is to automate the entire day to day activities of showroom like: customer visiting 
 showroom, registration of new customers, adding the available bikes and finally billing and 
 payment.The customer can login to the login page and can book a bike by providing the 
